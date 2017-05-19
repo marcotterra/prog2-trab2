@@ -1,4 +1,4 @@
-package com.ra163047.trab2;
+package com.prog2.trab2;
 
 public class Main {
     private static char op; // seletor de opcao do menu
